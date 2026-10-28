@@ -10,9 +10,7 @@
 
 はじめて使う方は、画面図入りの操作マニュアルをご覧ください。HTML版は画面図を押すと拡大できます。PDF版はA4・15ページです。Word版は文章を編集して配布用の手順書にできます。
 
-- [HTML版の操作マニュアル](shelter-starter-kit-1.2.3-manual.html)
-- [Word版の操作マニュアル](shelter-starter-kit-1.2.3-manual.docx)
-- [PDF版の操作マニュアル](shelter-starter-kit-1.2.3-manual.pdf)
+- [HTML版の操作マニュアル](shelter-starter-kit.html)
 
 ## 最初の設定
 
