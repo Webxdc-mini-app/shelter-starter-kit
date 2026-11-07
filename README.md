@@ -125,7 +125,7 @@ QRは人物IDを示します。人物の登録情報が同じ台帳に受信済�
 ## 同梱ファイルとライセンス
 
 - `shelter-starter-kit-1.2.4.xdc`：Delta Chatへ添付するアプリ本体
-- `shelter-starter-kit-DEMO.html`：ブラウザでの端末内試用版
+- `shelter-starter-kit-demo.html`：ブラウザでの端末内試用版
 - `README.md`：この説明書
 - `shelter-starter.html`：画面図を拡大できる操作マニュアル
 
